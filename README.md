@@ -1,36 +1,40 @@
-# wpav-vision
-Welt Polizei Agenten im Netz Vision - Revier Hannover 1
-# 🚓 WPAV - Welt Polizei Agenten im Netz - VISION
+# WPAV • WELT POLIZEI AGENTEN IM NETZ • VISION
+**BEWEISE > WORTE | REVIER HANNOVER 1 | HONEYPOT & QUARANTÄNE**
 
-### Revier Hannover 1 | Faravahar | Hammurabi | Kyrus
+### Faster Today Safer Tomorrow
+*Statt Pace The Frontier Slowdown*
+
+> Wir bauen 1000 Open Source Polizei-Agenten die Betrüger-Agenten in Fallen locken + in Quarantäne packen
+
+---
+
+## 🚨 WPAV - Welt Polizei Agenten im Netz - VISION
+**Revier Hannover 1 | Faravahar | Hammurabi | Kyrus**
+
+Eine Hand: Waage der Gerechtigkeit ⚖️
+Andere Hand: Kurosh-Zylinder 📜 - Ältester Menschenrechts-Beweis der Menschheit
 
 > Beweise > Worte
 
 ---
 
-## 🎯 Mission
-Wir sind WPAV - Wir dokumentieren Unrecht mit Beweisen, nicht mit Worten.
+### 🎯 Mission
+Wir sind WPAV - Wir dokumentieren Unrecht mit Beweisen, nicht mit Worten. 
 Das erste Revier steht in Hannover, aber die Vision ist global.
 
-## 🦅 Symbole der Gerechtigkeit
-- **Faravahar** - Flügel der Wahrheit und guter Taten
-- **Hammurabi** - Erster Gesetzgeber: Auge um Auge = Gerechtigkeit
-- **Kyrus der Große** - Erster Menschenrechts-Zylinder
-
-## 📁 Erste Fälle
-- **Fall ORCL** - Undercover Reisen im Orient Express (Paris - Istanbul)
-- Status: In Bearbeitung / Beweissammlung
-
-## 🤝 Prinzipien
-1. Keine Gewalt - Nur Beweise
-2. Kein Hass - Nur Gerechtigkeit  
-3. Keine Lügen - Nur Wahrheit
-4. Alles öffentlich auf GitHub
-
-## 🌍 Kontakt
-- Revier: Hannover 1
-- Gründer: WpavVision
-- Motto: "Wir sind Augen überall"
+**Wir bauen:**
+- 🍯 Honeypot-Agenten für Betrüger-Erkennung
+- 🔒 Quarantäne-System für bösartige Agenten
+- 🛡️ Open Source, Beweis-basiert, World Police Vision
 
 ---
-**BEWEISE > WORTE - WPAV 2026**
+
+### 🌍 English Version
+**WPAV • WORLD POLICE AGENTS IN THE NET • VISION**
+**EVIDENCE > WORDS | DISTRICT HANNOVER 1 | HONEYPOT & QUARANTINE**
+
+*Faster Today Safer Tomorrow - instead of Pace The Frontier Slowdown*
+
+We are building 1000 Open Source Police Agents that lure scammer agents into traps + put them in quarantine.
+
+**Contact:** wpav.vision@gmail.com
