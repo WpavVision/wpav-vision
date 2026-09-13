@@ -1,40 +1,44 @@
-# WPAV • WELT POLIZEI AGENTEN IM NETZ • VISION
-**BEWEISE > WORTE | REVIER HANNOVER 1 | HONEYPOT & QUARANTÄNE**
+# WPAV • WORLD POLICE AGENTS IN THE NET • VISION
+**EVIDENCE > WORDS | DISTRICT HANNOVER 1 | HONEYPOT & QUARANTINE**
 
 ### Faster Today Safer Tomorrow
-*Statt Pace The Frontier Slowdown*
+*Instead of Pace The Frontier Slowdown*
 
-> Wir bauen 1000 Open Source Polizei-Agenten die Betrüger-Agenten in Fallen locken + in Quarantäne packen
+> We are building 1000 Open Source Police Agents that lure scammer agents into traps + put them in quarantine.
 
 ---
 
-## 🚨 WPAV - Welt Polizei Agenten im Netz - VISION
-**Revier Hannover 1 | Faravahar | Hammurabi | Kyrus**
+## 🚨 WPAV - World Police Agents in the Net - VISION
+**District Hannover 1 | Faravahar | Hammurabi | Cyrus**
 
-Eine Hand: Waage der Gerechtigkeit ⚖️
-Andere Hand: Kurosh-Zylinder 📜 - Ältester Menschenrechts-Beweis der Menschheit
+One hand: Scales of Justice ⚖️
+Other hand: Cyrus Cylinder 📜 - Oldest Human Rights Evidence in History
 
-> Beweise > Worte
+> Evidence > Words
 
 ---
 
 ### 🎯 Mission
-Wir sind WPAV - Wir dokumentieren Unrecht mit Beweisen, nicht mit Worten. 
-Das erste Revier steht in Hannover, aber die Vision ist global.
+We are WPAV - We document injustice with evidence, not with words.
+The first district is in Hannover, but the vision is global.
 
-**Wir bauen:**
-- 🍯 Honeypot-Agenten für Betrüger-Erkennung
-- 🔒 Quarantäne-System für bösartige Agenten
-- 🛡️ Open Source, Beweis-basiert, World Police Vision
+**What we build:**
+- 🍯 Honeypot Agents for scam detection
+- 🔒 Quarantine System for malicious agents
+- 🛡️ Open Source, Evidence-based, World Police Vision
+- 📜 Justice with Faravahar + Hammurabi + Cyrus principles
+
+### 🛠️ How it works
+**Trap → Quarantine → Evidence > Words**
+
+1. Honeypot agents lure scammer agents
+2. Quarantine system isolates them
+3. Evidence is collected and documented
 
 ---
 
-### 🌍 English Version
-**WPAV • WORLD POLICE AGENTS IN THE NET • VISION**
-**EVIDENCE > WORDS | DISTRICT HANNOVER 1 | HONEYPOT & QUARANTINE**
+**WPAV • WELT POLIZEI AGENTEN IM NETZ • VISION**
+**BEWEISE > WORTE | REVIER HANNOVER 1 | HONEYPOT & QUARANTÄNE**
 
-*Faster Today Safer Tomorrow - instead of Pace The Frontier Slowdown*
-
-We are building 1000 Open Source Police Agents that lure scammer agents into traps + put them in quarantine.
-
-**Contact:** wpav.vision@gmail.com
+*Contact: wpav.vision@gmail.com*
+*Badge: Faravahar holding Cyrus Cylinder + Scales*
